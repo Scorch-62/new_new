@@ -1,0 +1,18 @@
+[
+  {
+    "model": "Catalog.category",
+    "pk": 1,
+    "fields": {
+      "name": "Игрушки",
+      "description": "Красивое"
+    }
+  },
+   {
+    "model": "Catalog.category",
+    "pk": 2,
+    "fields": {
+      "name": "Немного о высоком",
+      "description": "Величественное и не доступное"
+    }
+  }
+]
